@@ -2,7 +2,8 @@
 
 Uma calculadora simples de soma feita com **HTML, CSS e JavaScript puro**. O usuário digita dois números, clica no botão **Somar** e o resultado aparece na tela.
 
-![Prévia do projeto](./preview.png)
+![Prévia do projeto]<img width="1901" height="908" alt="image" src="https://github.com/user-attachments/assets/bc150abe-1256-49e1-839b-87f905461cd9" />
+
 
 > 💡 Dica: tire um print da página, salve como `preview.png` na raiz do repositório e a imagem acima aparecerá aqui.
 
